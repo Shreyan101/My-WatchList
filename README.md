@@ -53,9 +53,7 @@ My WatchList is a Web-Application where User can search a Movie and can view det
 
 
 - If a user type something in search box  and press enter, the page reloads for that movie
-
-
-         
+        
 
 
 
@@ -81,11 +79,15 @@ My WatchList is a Web-Application where User can search a Movie and can view det
 ![App Screenshot](https://github.com/Shreyan101/My-WatchList/blob/master/images/res4.png?raw=true)
 
 
-## API Reference
 
+## Getting Started
 
+The quickest way to get started is to use
 
-```http
- http://www.omdbapi.com/
+```sh
+Clone the app - git clone [githubrepositorylink]
+Open the app - cd Appname 
+Install all the packages in package.json - npm i
+npm start
 ```
-
+Now open [http://localhost:3000](http://localhost:3000).
